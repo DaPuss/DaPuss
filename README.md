@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DaPuss
+- 👀 I currently work as a Junior Full Stack Developer for a services Company
+- 🌱 C#, Javascript, React, Azure and recently Blockchain, Solidity and Ethers.js
+- 💞️ I’m looking to collaborate on anything blockchain realated where I can contribute and learn at the same time
+- 📫 Reach out to me on twitter @DollyThePuss
